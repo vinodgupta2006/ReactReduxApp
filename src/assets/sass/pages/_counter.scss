@@ -1,0 +1,16 @@
+.counter{
+    // position: relative;
+    // top: 75px;
+
+    &__increment{
+        margin-left: 20%;
+        // padding: 2%;;
+    }
+
+    &__value{
+        // text-align: center;
+        font-size: 18px;
+        font-weight: bold;
+        margin-left: 10%;
+    }
+}
